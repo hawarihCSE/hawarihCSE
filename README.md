@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm from Bangladesh Army University of Engineering and Technology, Qadirabad Cantonment, Natore, Bangladesh<br><br>- 🔭 I’m working as Undergraduate Student<br>- 📚 I'm currently learning Python</p>
+<p align="left">I'm a student of Bangladesh Army University of Engineering and Technology, Qadirabad Cantonment, Natore, Bangladesh<br><br>- 🔭 I’m working as Undergraduate Student<br>- 📚 I'm currently learning Python</p>
 
 ###
 
